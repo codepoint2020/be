@@ -1,0 +1,47 @@
+.jm-slides {
+    margin-top: -20px !important;
+    max-height: 700px;
+}
+
+.profile-div {
+  
+    margin-top: 1.5rem;
+}
+
+.profile-content p {
+    color: white;
+}
+
+.jm-course-title {
+   
+    font-size: 1.2rem !important;
+    font-weight: 600 !important;
+}
+
+
+.lesson-titles {
+    margin-top: -20px !important;
+    margin-bottom: 30px !important;
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px #ffffff;
+}
+
+.powered {
+    font-size: 0.7rem !important;
+    text-align: center;
+}
+
+.jm-btn-wrap {
+    margin-top: 10px !important;
+}
+
+.course_title {
+    color: rgb(31, 29, 29) !important;
+    font-weight: bold;
+
+}
+
+.jm-img-restrict {
+    margin-top:-20px;
+}
